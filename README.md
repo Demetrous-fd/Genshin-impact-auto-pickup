@@ -2,7 +2,7 @@
 
 Программа для автоматического сбора предметов в Genshin impact
 
-### [Ссылка на скачивание последней версии GIAP]()
+### [Ссылка на скачивание последней версии GIAP](https://github.com/Demetrous-fd/Genshin-impact-auto-pickup/releases/latest)
 
 ## Требования для запуска
 
